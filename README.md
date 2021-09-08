@@ -27,6 +27,9 @@ https://www.code-inspector.com/project/28055/status/svg
 
 
 
+git codacy :
+
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/1b76a721148f41e295c6d2ce4d25edf8)](https://www.codacy.com/gh/sandeep-master/stepin_mini_project/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=sandeep-master/stepin_mini_project&amp;utm_campaign=Badge_Grade)
 
 
 
