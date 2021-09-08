@@ -38,17 +38,19 @@ git codacy :
 folder structure :
 
 
-1_Requirements
+    1_Requirements
 
-2_Architecture
+    2_Architecture
 
-3_Implementation
+    3_Implementation
 
-4_TestPlanAndOutput
+    4_TestPlanAndOutput
 
-5_Report
+    5_Report
 
-6_ImagesAndVideos
+    6_ImagesAndVideos
+
+
 
 
 
@@ -61,4 +63,4 @@ folder structure :
 
 Contributors List and Summary
 
-p geeta sandeep
+    p geeta sandeep
