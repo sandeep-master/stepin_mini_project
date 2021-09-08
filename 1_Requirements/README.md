@@ -37,3 +37,95 @@ System overview:
 ![Screenshot 2021-09-08 at 5 09 03 PM](https://user-images.githubusercontent.com/61178705/132502882-630f3221-1b32-4360-b7bb-ae00a4f9bb36.png)
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SWOT analysis:
+
+
+
+
+
+
+
+![Screenshot 2021-09-08 at 5 10 32 PM](https://user-images.githubusercontent.com/61178705/132503021-133c1ef1-a1a7-4e8a-b251-1d50e00a640d.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Details:
+
+
+high level requiremets :
+
+
+
+HR01 - User shall be able to perform Arthimetic Operations	
+HR02- User shall be able to Other operations	
+
+
+
+
+lowlevel requirements:
+
+LR01    Permorming Addition	                HR01
+LR02	Performing Subtraction	            HR01	
+LR03	Performing Multiplication	        HR01
+LR04	Performing Division	                HR01	
+LR05	Performing Power	                HR02	
+LR06	Performing Squarerootof a number	HR02	
+LR05	Performing Logarithm with base 10	HR02
+
+
+
+
+
+
+
+
