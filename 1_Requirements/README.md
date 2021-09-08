@@ -22,6 +22,18 @@ Disadvantages:
 The Calculator is available in variety of brands, and each brand and model requires a specific set of instructions. It is a proven fact that many of us do not bother to read these manual, and it gets lost. Although the instructions are quite simple, there are chances that students might make mistake. A small mistake is sufficient to lead to the wrong answer. A student must have the ability of estimating the correct answers or the student would not cross check the problem. It is in the best interest of students to repeat all the mathematical calculation once. Alternatively, if there is difference in answers between the first and second calculation, the student must repeat the operations again.
 
 System overview:
+
+
+
+
+
+
+
+
+
+
+
+
 ![Screenshot 2021-09-08 at 5 09 03 PM](https://user-images.githubusercontent.com/61178705/132502882-630f3221-1b32-4360-b7bb-ae00a4f9bb36.png)
 
 
