@@ -1,5 +1,7 @@
 # stepin_mini_project
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/1d611b9a419841d3b2a349a27c94b631)](https://app.codacy.com/gh/sandeep-master/stepin_mini_project?utm_source=github.com&utm_medium=referral&utm_content=sandeep-master/stepin_mini_project&utm_campaign=Badge_Grade_Settings)
+
 Check my CODE INSPECTOR STATS!
 
 https://www.code-inspector.com/project/28055/score/svg
