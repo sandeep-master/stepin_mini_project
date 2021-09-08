@@ -1,4 +1,5 @@
-name:CI-main
+name: CI-Coverage
+
 
 # Controls when the action will run. 
 on:
