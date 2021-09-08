@@ -107,6 +107,11 @@ high level requiremets :
 
 
 HR01 - User shall be able to perform Arthimetic Operations	
+
+
+
+
+
 HR02- User shall be able to Other operations	
 
 
@@ -115,12 +120,20 @@ HR02- User shall be able to Other operations
 lowlevel requirements:
 
 LR01    Permorming Addition	                HR01
+
+
 LR02	Performing Subtraction	            HR01	
+
 LR03	Performing Multiplication	        HR01
+
 LR04	Performing Division	                HR01	
+
 LR05	Performing Power	                HR02	
+
 LR06	Performing Squarerootof a number	HR02	
+
 LR05	Performing Logarithm with base 10	HR02
+
 
 
 
