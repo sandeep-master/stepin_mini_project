@@ -1,4 +1,4 @@
-name:main
+name:CI-main
 
 # Controls when the action will run. 
 on:
